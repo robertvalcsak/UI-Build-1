@@ -1,0 +1,33 @@
+
+
+body {
+    background-color: #FFEEDF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    background-color: #1C5A4E;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    max-width: 240px;
+    max-height: 240px;
+    border-radius: 50%;
+}
+
+.box p {
+    color: #FFEEDF;
+    font-size: 200px;
+    margin-top: 170px;
+}
+
